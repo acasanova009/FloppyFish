@@ -15,7 +15,26 @@
 	<key>fileVersion</key>
 	<integer>4</integer>
 	<key>guides</key>
-	<array/>
+	<array>
+		<dict>
+			<key>orientation</key>
+			<integer>0</integer>
+			<key>position</key>
+			<real>101</real>
+		</dict>
+		<dict>
+			<key>orientation</key>
+			<integer>0</integer>
+			<key>position</key>
+			<real>-100</real>
+		</dict>
+		<dict>
+			<key>orientation</key>
+			<integer>0</integer>
+			<key>position</key>
+			<real>450</real>
+		</dict>
+	</array>
 	<key>jsControlled</key>
 	<false/>
 	<key>nodeGraph</key>
@@ -92,8 +111,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>0.5</real>
-							<real>172</real>
+							<real>0.0</real>
+							<real>0.0</real>
 							<integer>0</integer>
 							<integer>2</integer>
 							<integer>1</integer>
@@ -106,8 +125,8 @@
 						<string>Point</string>
 						<key>value</key>
 						<array>
-							<real>0.5</real>
-							<real>0.5</real>
+							<real>0.0</real>
+							<real>0.0</real>
 						</array>
 					</dict>
 					<dict>
@@ -157,7 +176,7 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>longPipe</string>
+				<string>longPipeUP</string>
 				<key>memberVarAssignmentName</key>
 				<string>_pipeTopNode</string>
 				<key>memberVarAssignmentType</key>
@@ -217,9 +236,9 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>0.5</real>
-							<real>0.7850000262260437</real>
-							<integer>0</integer>
+							<real>0.0</real>
+							<real>0.0</real>
+							<integer>1</integer>
 							<integer>2</integer>
 							<integer>2</integer>
 						</array>
@@ -231,8 +250,8 @@
 						<string>Point</string>
 						<key>value</key>
 						<array>
-							<real>0.5</real>
-							<real>0.5</real>
+							<real>0.0</real>
+							<real>1</real>
 						</array>
 					</dict>
 					<dict>
@@ -391,15 +410,13 @@
 						<string>ScaleLock</string>
 						<key>value</key>
 						<array>
-							<real>1</real>
-							<real>1</real>
+							<real>0.8415381908416748</real>
+							<real>2.0646061897277832</real>
 							<false/>
 							<integer>0</integer>
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
@@ -442,7 +459,7 @@
 				<key>value</key>
 				<array>
 					<real>64</real>
-					<real>800</real>
+					<real>840</real>
 					<integer>0</integer>
 					<integer>0</integer>
 				</array>

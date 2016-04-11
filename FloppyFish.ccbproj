@@ -204,6 +204,8 @@
 		</dict>
 		<key>longPipe.png</key>
 		<dict>
+			<key>isDirty</key>
+			<true/>
 			<key>scaleFrom</key>
 			<integer>4</integer>
 		</dict>
@@ -229,8 +231,8 @@
 		</dict>
 	</dict>
 	<key>versionStr</key>
-	<string>Version: 1.0.3
-GitHub: 9026dcdd50
+	<string>Version: 1.0.6
+GitHub: 2a1e3712de
 </string>
 </dict>
 </plist>

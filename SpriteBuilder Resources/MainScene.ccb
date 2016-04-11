@@ -305,7 +305,7 @@
 						<key>value</key>
 						<array>
 							<real>0.5</real>
-							<real>0.78571426868438721</real>
+							<real>0.80000001192092896</real>
 							<integer>0</integer>
 							<integer>2</integer>
 							<integer>2</integer>
@@ -343,7 +343,7 @@
 						<key>type</key>
 						<string>Degrees</string>
 						<key>value</key>
-						<real>-1.5049924850463867</real>
+						<real>0.0</real>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -723,7 +723,7 @@
 						<key>type</key>
 						<string>Degrees</string>
 						<key>value</key>
-						<real>-4.3353962898254395</real>
+						<real>0.0</real>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -1127,7 +1127,7 @@
 						<key>type</key>
 						<string>Degrees</string>
 						<key>value</key>
-						<real>3.1455600261688232</real>
+						<real>0.0</real>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -1383,8 +1383,6 @@
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 				<key>seqExpanded</key>
 				<true/>
 			</dict>
@@ -1620,7 +1618,7 @@
 						<key>type</key>
 						<string>Degrees</string>
 						<key>value</key>
-						<real>1.3687882423400879</real>
+						<real>0.0</real>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -2462,7 +2460,7 @@
 			<key>offset</key>
 			<real>0.0</real>
 			<key>position</key>
-			<real>1.2999999523162842</real>
+			<real>0.0</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
